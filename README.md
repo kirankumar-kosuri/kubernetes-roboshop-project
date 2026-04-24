@@ -16,3 +16,13 @@ Typical services included in Roboshop:
 6. Shipping Service
 7. Databases (MongoDB, MySQL, Redis)
 8. Messaging Queue (RabbitMQ)
+
+# Kubernetes Components Used
+This project uses core Kubernetes resources:
+
+1. Deployments – Manage stateless services
+2. StatefulSets – Manage databases
+3. Services (ClusterIP / NodePort) – Enable communication
+4. ConfigMaps & Secrets – Manage configuration
+5. Persistent Volumes (PV & PVC) – Store data reliably
+6. Namespaces – Logical separation of resources
