@@ -26,3 +26,10 @@ This project uses core Kubernetes resources:
 4. ConfigMaps & Secrets – Manage configuration
 5. Persistent Volumes (PV & PVC) – Store data reliably
 6. Namespaces – Logical separation of resources
+
+# What we will Learn
+1. Deploying real-world microservices on Kubernetes
+2. Managing multi-service architecture
+3. Service-to-service communication
+4. Handling stateful and stateless applications
+5. Using Kubernetes YAML for infrastructure as code
